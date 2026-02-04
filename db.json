@@ -1,0 +1,89 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "description": "Classic pizza with tomato sauce and mozzarella",
+      "price": "$8",
+      "image": "https://cdn.pixabay.com/photo/2022/03/29/03/40/food-7098703_1280.jpg" 
+       },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "description": "Pepperoni, cheese, tomato sauce",
+      "price": "$10",
+      "image": "https://cdn.britannica.com/08/177308-050-94D9D6BE/Food-Pizza-Basil-Tomato.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Margherita",
+      "description": "Classic pizza with tomato sauce and mozzarella",
+      "price": "$8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCD94YAciWpWu3jIuwK7anEuQ0Wp3WtPBF5KFNMUm&s" 
+       },
+    {
+      "id": 4,
+      "name": "Pepperoni",
+      "description": "Pepperoni, cheese, tomato sauce",
+      "price": "$10",
+      "image": "https://cdn.britannica.com/08/177308-050-94D9D6BE/Food-Pizza-Basil-Tomato.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Margherita",
+      "description": "Classic pizza with tomato sauce and mozzarella",
+      "price": "$8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CSXLbn883gqRZpIdFUvqUaFjiG-LZYe46mfUWNjb&s" 
+       },
+    {
+      "id": 6,
+      "name": "Pepperoni",
+      "description": "Pepperoni, cheese, tomato sauce",
+      "price": "$10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNW0axSJxLtVNzPcM3zCeG2bzcfOj1ejXKBfeLWJJ0&s"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Анна Петрова",
+      "role": "Главный бариста",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop",
+      "expertise": "Эксперт по эспрессо",
+      "bio": "5 лет опыта, победитель национального чемпионата бариста 2022",
+      "skills": ["Латте-арт", "Обжарка", "Каппинг"],
+      "instagram": "https://instagram.com",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "id": 2,
+      "name": "Максим Иванов",
+      "role": "Шеф-кондитер",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "expertise": "Десерты",
+      "bio": "Создаёт уникальные десерты, сочетающие традиции и инновации",
+      "skills": ["Чизкейки", "Тирамису", "Выпечка"],
+      "instagram": "https://instagram.com",
+      "twitter": "https://twitter.com"
+    },
+    {
+      "id": 4,
+      "name": "Дмитрий Козлов",
+      "role": "Кофе-сомелье",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      "expertise": "Отбор зерен",
+      "bio": "Путешествует по плантациям мира в поисках лучших сортов кофе",
+      "skills": ["Дегустация", "Отбор", "Обжарка"],
+      "instagram": "https://instagram.com",
+      "twitter": "https://twitter.com"
+    }
+  ],
+  "about": {
+    "teamCount": "20+",
+    "experience": "5 лет",
+    "coffeeServed": "100K+",
+    "satisfaction": "98%",
+    "description": "Наша команда профессионалов"
+  }
+}
